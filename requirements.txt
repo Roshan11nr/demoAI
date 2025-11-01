@@ -1,0 +1,8 @@
+
+streamlit>=1.39.0
+python-dotenv>=1.0.1
+openai>=1.40.0
+langgraph>=0.2.22
+pydantic>=2.8.2
+typing_extensions>=4.12.2
+sqlite-utils>=3.37
